@@ -1,0 +1,108 @@
+home
+development
+administration
+search
+none
+weight
+modules
+menu
+advanced settings
+performance
+log out
+permissions
+run cron
+show shortcuts
+delete
+delete
+operations
+username
+item
+type
+cancel
+create ! type
+disabled
+enabled
+cron
+none
+password
+none
+settings
+name
+edit
+import
+path
+unknown
+database type
+continue
+email
+host
+never
+custom
+location
+items
+! time ago
+profile
+database name
+port
+sources
+revert
+revert
+profiles
+1 byte
+_ plural @ count bytes
+save configuration
+delete
+delete
+operations
+disable
+save
+background color
+text color
+warning
+user interface
+delete
+delete
+operations
+cancel
+language
+disabled
+enabled
+yes
+no
+advanced options
+none
+edit
+save
+advanced settings
+unknown
+expanded
+not found
+input format
+global settings
+help
+configuration
+basic
+profile
+show
+line break converter
+hide
+profiles
+toolbar
+text formats
+actions
+you are not allowed to create new menu items .
+you are not allowed to edit menu items .
+select menu or parent for move / copy
+batch process the selected menu items
+if a menu or parent is selected for move / copy , any actions selected will be applied to the copied or moved menu items . otherwise , all actions are applied to the selected menu items .
+menus configuration
+edit module settings
+a menu item set to All languages can &apos;t be associated . associations have not been set .
+menu item already set to home
+please change the menu type . the terms &apos; menu &apos; and &apos; main &apos; are reserved for backend usage .
+only one menu item can be a home link for each language
+component disabled and menu item published
+component enabled and menu item published
+component disabled and menu item unpublished
+component enabled and menu item unpublished
+display a feed link for this menu item

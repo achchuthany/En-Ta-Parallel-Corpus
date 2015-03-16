@@ -1,0 +1,100 @@
+account details
+an error was encountered while performing the batch operation : % s .
+batch operation completed successfully .
+select the language for the administrator backend interface. this will only affect this user .
+backend language
+select the template style for the administrator backend interface. this will only affect this user .
+backend template style
+block this user
+block this user
+user editor
+editor
+enter an email for the user
+select the language for the frontend interface. this will only affect this user .
+frontend language
+help site for this user
+help site
+date and time of last password reset
+last reset date
+last visit date
+last visit date
+enter the name of the user
+name
+confirm the user &apos;s password
+confirm password
+enter the password for the user
+registration date
+registration date
+setting this option to yes requires the user to reset their password the next time they log into the site .
+require password reset
+number of password resets since last reset date
+password reset count
+if set to yes , the user will receive system emails .
+receive system emails
+time zone for this user
+time zone
+which two factor authentication method you want to activate on the user account
+authentication method
+enter the login name ( user name ) for the user .
+login name
+user groups having viewing access
+user
+one time emergency passwords
+if you do not have access to your two factor authentication device you can use any of the following passwords instead of a regular security code. each one of these emergency passwords is immediately destroyed upon use. we recommend printing these passwords out and keeping the printout in a safe and accessible location , e.g. your wallet or a safety deposit box .
+there are currently no emergency one time passwords generated in your account. the passwords will be generated automatically and displayed here as soon as you activate two factor authentication .
+an error was encountered while saving the member : % s .
+user successfully saved .
+two factor authentication
+user group details
+you cannot block yourself .
+you cannot delete yourself .
+you cannot remove your own super user permissions .
+multiple groups
+% d users successfully deleted
+one user successfully deleted
+no users selected
+debug permissions report for group # % d , % s
+debug permissions report for user # % d , % s
+user manager : edit group
+user manager : edit viewing access level
+user manager : edit profile
+user manager : edit user
+user manager : user groups
+user manager : viewing access levels
+user manager : add new user group
+user manager : add new viewing access level
+user manager : add new user
+user notes
+user manager : users
+component for managing users
+plugin manager
+advanced
+basic
+plugin manager options
+element
+the file % s could not be found .
+plugin main file name
+plugin file
+the enabled status of this plugin
+category / folder of plugins this plugin belongs to .
+plugin type
+the name of the plugin as defined in its xml
+plugin name
+type
+plugin manager : % s
+plugin manager : plugins
+there are no plugins installed matching your query
+no plugin successfully checked in
+% d plugin successfully checked in
+% d plugins successfully checked in
+% d plugins successfully enabled
+plugin successfully enabled
+% d plugins successfully disabled
+plugin successfully disabled
+plugin name
+no plugins selected
+- select type -
+plugin
+plugins
+plugin successfully saved
+search in plugin title .

@@ -1,0 +1,403 @@
+home
+development
+administration
+search
+none
+weight
+modules
+menu
+advanced settings
+performance
+log out
+permissions
+run cron
+show shortcuts
+delete
+delete
+operations
+username
+item
+type
+cancel
+create ! type
+disabled
+enabled
+cron
+none
+password
+none
+settings
+name
+edit
+import
+path
+unknown
+database type
+continue
+email
+host
+never
+custom
+location
+items
+! time ago
+profile
+database name
+port
+sources
+revert
+revert
+profiles
+1 byte
+_ plural @ count bytes
+save configuration
+delete
+delete
+operations
+disable
+save
+background color
+text color
+warning
+user interface
+delete
+delete
+operations
+cancel
+language
+disabled
+enabled
+yes
+no
+advanced options
+none
+edit
+save
+advanced settings
+unknown
+expanded
+not found
+input format
+global settings
+help
+configuration
+basic
+profile
+show
+line break converter
+hide
+profiles
+toolbar
+text formats
+actions
+you are not allowed to create new menu items .
+you are not allowed to edit menu items .
+select menu or parent for move / copy
+batch process the selected menu items
+if a menu or parent is selected for move / copy , any actions selected will be applied to the copied or moved menu items . otherwise , all actions are applied to the selected menu items .
+menus configuration
+edit module settings
+a menu item set to All languages can &apos;t be associated . associations have not been set .
+menu item already set to home
+please change the menu type . the terms &apos; menu &apos; and &apos; main &apos; are reserved for backend usage .
+only one menu item can be a home link for each language
+component disabled and menu item published
+component enabled and menu item published
+component disabled and menu item unpublished
+component enabled and menu item unpublished
+display a feed link for this menu item
+searching for devices …
+search for devices
+rename my device
+unknown device
+change phone name
+change the name of your device as it appears in your computer
+new name
+unable to pair devices
+unable to pair with the device. check that the pin is correct .
+unable to pair with the device. too many requests .
+unable to connect devices
+unpair a connected device ?
+nfc
+the ssid cannot be empty
+internet sharing
+{ { internetsharing } }
+usb
+wi-fi
+wi-fi hotspot
+name
+password
+security
+usb tethering
+hotspot settings
+username
+password
+username
+password
+{ { hotspotsettings } }
+ssid network name
+open
+wpa ( tkip )
+wpa2 ( aes )
+the password must have at least 8 characters .
+personalization
+sound
+{ { sound } }
+volume
+tones
+audible touch tones
+short
+long
+select a tone
+ringer
+ringtones
+alert tones
+manage sounds
+manage ringtones
+other sounds
+alerts
+unlock screen
+camera
+sent message
+alarm
+ringer &amp; notifications
+media
+saving ringtone …
+we were unable to find a ringtone app to manage ringtones !
+display
+{ { display } }
+brightness
+adjust automatically
+lock screen
+wallpaper
+screen timeout
+1 minute
+2 minutes
+5 minutes
+10 minutes
+never
+lock orientation
+notifications
+{ { notifications } }
+show on lock screen
+show after reboot
+date &amp; time
+{ { dateandtime } }
+set automatically
+set manually
+time zone
+date
+time
+select continent
+select time zone
+language &amp; region
+language
+{ { language } }
+region
+sample format
+% a , % b % d , % y
+sim manager
+{ { simmanager } }
+sim settings
+outgoing calls
+calls will be sent from
+outgoing messages
+sms will be sent from
+data
+account details
+an error was encountered while performing the batch operation : % s .
+batch operation completed successfully .
+select the language for the administrator backend interface. this will only affect this user .
+backend language
+select the template style for the administrator backend interface. this will only affect this user .
+backend template style
+block this user
+block this user
+user editor
+editor
+enter an email for the user
+select the language for the frontend interface. this will only affect this user .
+frontend language
+help site for this user
+help site
+date and time of last password reset
+last reset date
+last visit date
+last visit date
+enter the name of the user
+name
+confirm the user &apos;s password
+confirm password
+enter the password for the user
+registration date
+setting this option to yes requires the user to reset their password the next time they log into the site .
+require password reset
+number of password resets since last reset date
+password reset count
+if set to yes , the user will receive system emails .
+receive system emails
+time zone for this user
+time zone
+which two factor authentication method you want to activate on the user account
+authentication method
+enter the login name ( user name ) for the user .
+login name
+user groups having viewing access
+user
+if you do not have access to your two factor authentication device you can use any of the following passwords instead of a regular security code. each one of these emergency passwords is immediately destroyed upon use. we recommend printing these passwords out and keeping the printout in a safe and accessible location , e.g. your wallet or a safety deposit box .
+there are currently no emergency one time passwords generated in your account. the passwords will be generated automatically and displayed here as soon as you activate two factor authentication .
+an error was encountered while saving the member : % s .
+user successfully saved .
+two factor authentication
+user group details
+you cannot block yourself .
+you cannot delete yourself .
+you cannot remove your own super user permissions .
+multiple groups
+% d users successfully deleted
+one user successfully deleted
+no users selected
+debug permissions report for group # % d , % s
+debug permissions report for user # % d , % s
+user manager : edit group
+user manager : edit viewing access level
+user manager : edit profile
+user manager : edit user
+user manager : user groups
+user manager : viewing access levels
+user manager : add new user group
+user manager : add new viewing access level
+user manager : add new user
+user notes
+user manager : users
+plugin manager
+advanced
+basic
+plugin manager options
+element
+the file % s could not be found .
+plugin main file name
+plugin file
+the enabled status of this plugin
+category / folder of plugins this plugin belongs to .
+plugin type
+the name of the plugin as defined in its xml
+plugin name
+type
+plugin manager : % s
+plugin manager : plugins
+there are no plugins installed matching your query
+no plugin successfully checked in
+% d plugin successfully checked in
+% d plugins successfully checked in
+% d plugins successfully enabled
+plugin successfully enabled
+% d plugins successfully disabled
+plugin successfully disabled
+plugin name
+no plugins selected
+- select type -
+plugin
+plugins
+plugin successfully saved
+no connection to server
+pop3 user :
+no login id submitted
+connection not established
+pop3 pass :
+no password submitted
+authentication failed
+pop3 apop :
+no login id submitted
+no server banner
+abort
+apop authentication failed
+pop3 login :
+pop3 top :
+pop3 pop _ list :
+premature end of list
+pop3 get :
+pop3 last :
+pop3 reset :
+pop3 send _ cmd :
+empty command string
+pop3 quit :
+connection does not exist
+pop3 uidl :
+pop3 delete :
+no msg number submitted
+command failed
+remote pop server fetching mail
+select server :
+password for
+fetch mail
+fetching from
+oops ,
+opening imap server
+opening pop server
+login failed :
+login ok : no new messages
+login ok : inbox empty
+login ok : inbox contains &#91;
+&#93; messages
+fetching uidl ...
+server does not support uidl .
+leaving mail on server ...
+deleting messages from server ...
+fetching message
+server error ... disconnect
+reconnect from dead connection
+saving uidl
+refetching message
+error appending message !
+closing pop
+logging out from imap
+message appended to mailbox
+message
+deleted from remote server !
+delete failed :
+remote pop server settings
+you should be aware that the encryption used to store your password is not perfectly secure. however , if you are using pop , there is inherently no encryption anyway. additionally , the encryption that we do to save it on the server can be undone by a hacker reading the source to this file .
+if you leave password empty , it will be required when you fetch mail .
+encrypt passwords ( informative only )
+add server
+server :
+port :
+alias :
+username :
+store in folder :
+leave mail on server
+check mail during login
+check mail during folder refresh
+modify server
+server name :
+modify
+no-one server in use. try to add .
+fetching servers
+confirm deletion of a server
+selected server :
+confirm delete of selected server ?
+confirm delete
+mofify a server
+undefined function
+hey ! wath do you are looking for ?
+fetch
+warning ,
+mail fetch result :
+simple pop3 fetch mail
+this configures settings for downloading email from a pop3 mailbox to your account on this server .
+message details
+message details
+close window
+save message
+view message details
+new mail notification
+select &lt; b &gt; enable media playing &lt; / b &gt; to turn on playing a media file when unseen mail is in your folders. when enabled , you can specify the media file to play in the provided file box .
+the &lt; b &gt; check all boxes , not just inbox &lt; / b &gt; option will check all of your folders for unseen mail , not just the inbox for notification .
+selecting the &lt; b &gt; show popup &lt; / b &gt; option will enable the showing of a popup window when unseen mail is in your folders ( requires javascript ) .
+use the &lt; b &gt; check recent &lt; / b &gt; to only check for messages that are recent. recent messages are those that have just recently showed up and have not been \ viewed \ or checked yet. this can prevent being continuously annoyed by sounds or popups for unseen mail .
+selecting the &lt; b &gt; change title &lt; / b &gt; option will change the title in some browsers to let you know when you have new mail ( requires javascript , and only works in ie but you won &apos;t see errors with other browsers ) . this will always tell you if you have new mail , even if you have &lt; b &gt; check recent &lt; / b &gt; enabled .
+select from the list of &lt; b &gt; server files &lt; / b &gt; the media file to play when new mail arrives. selecting &lt; b &gt; local media &lt; / b &gt; will play the file specified in the &lt; b &gt; local media file &lt; / b &gt; box to play from the local computer. if no file is specified , the system will use a default from the server .
+enable media playing
+check all boxes , not just inbox
+count only messages that are recent

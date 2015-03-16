@@ -1,0 +1,101 @@
+no connection to server
+pop3 user :
+no login id submitted
+connection not established
+pop3 pass :
+no password submitted
+authentication failed
+pop3 apop :
+no login id submitted
+no server banner
+abort
+apop authentication failed
+pop3 login :
+pop3 top :
+pop3 pop _ list :
+premature end of list
+pop3 get :
+pop3 last :
+pop3 reset :
+pop3 send _ cmd :
+empty command string
+pop3 quit :
+connection does not exist
+pop3 uidl :
+pop3 delete :
+no msg number submitted
+command failed
+remote pop server fetching mail
+select server :
+password for
+fetch mail
+fetching from
+oops ,
+opening imap server
+opening pop server
+login failed :
+login ok : no new messages
+login ok : inbox empty
+login ok : inbox contains &#91;
+&#93; messages
+fetching uidl ...
+server does not support uidl .
+leaving mail on server ...
+deleting messages from server ...
+fetching message
+server error ... disconnect
+reconnect from dead connection
+saving uidl
+refetching message
+error appending message !
+closing pop
+logging out from imap
+message appended to mailbox
+message
+deleted from remote server !
+delete failed :
+remote pop server settings
+you should be aware that the encryption used to store your password is not perfectly secure. however , if you are using pop , there is inherently no encryption anyway. additionally , the encryption that we do to save it on the server can be undone by a hacker reading the source to this file .
+if you leave password empty , it will be required when you fetch mail .
+encrypt passwords ( informative only )
+add server
+server :
+port :
+alias :
+username :
+store in folder :
+leave mail on server
+check mail during login
+check mail during folder refresh
+modify server
+server name :
+modify
+no-one server in use. try to add .
+fetching servers
+confirm deletion of a server
+selected server :
+confirm delete of selected server ?
+confirm delete
+mofify a server
+undefined function
+hey ! wath do you are looking for ?
+fetch
+warning ,
+mail fetch result :
+simple pop3 fetch mail
+this configures settings for downloading email from a pop3 mailbox to your account on this server .
+message details
+message details
+close window
+save message
+view message details
+new mail notification
+select &lt; b &gt; enable media playing &lt; / b &gt; to turn on playing a media file when unseen mail is in your folders. when enabled , you can specify the media file to play in the provided file box .
+the &lt; b &gt; check all boxes , not just inbox &lt; / b &gt; option will check all of your folders for unseen mail , not just the inbox for notification .
+selecting the &lt; b &gt; show popup &lt; / b &gt; option will enable the showing of a popup window when unseen mail is in your folders ( requires javascript ) .
+use the &lt; b &gt; check recent &lt; / b &gt; to only check for messages that are recent. recent messages are those that have just recently showed up and have not been \ viewed \ or checked yet. this can prevent being continuously annoyed by sounds or popups for unseen mail .
+selecting the &lt; b &gt; change title &lt; / b &gt; option will change the title in some browsers to let you know when you have new mail ( requires javascript , and only works in ie but you won &apos;t see errors with other browsers ) . this will always tell you if you have new mail , even if you have &lt; b &gt; check recent &lt; / b &gt; enabled .
+select from the list of &lt; b &gt; server files &lt; / b &gt; the media file to play when new mail arrives. selecting &lt; b &gt; local media &lt; / b &gt; will play the file specified in the &lt; b &gt; local media file &lt; / b &gt; box to play from the local computer. if no file is specified , the system will use a default from the server .
+enable media playing
+check all boxes , not just inbox
+count only messages that are recent
